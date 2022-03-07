@@ -29,4 +29,4 @@ Built with Python 3.7. Modules used:
  
  ## RESULTS
 
-Final report yet to be completed
+The Final report is present in the notebook file 'Tweet_Classification_report' added to the repository
